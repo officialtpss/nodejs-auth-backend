@@ -112,6 +112,13 @@ PORT="3000"
 NODE_ENV="development"
 ```
 
-## License
+### 👤 Author
 
-MIT 
+Tech Prastish - [github.com/officialtpss](https://github.com/officialtpss)  
+
+Contact: info@tech-prastish.com
+
+
+### 📄 License
+
+This is a sample project intended for learning and demo purposes only.
