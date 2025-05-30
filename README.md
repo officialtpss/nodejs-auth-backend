@@ -22,8 +22,8 @@ A professional, scalable Node.js backend with authentication, profile management
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-name>
+git clone git@github.com:officialtpss/nodejs-auth-backend.git
+cd nodejs-auth-backend
 ```
 
 2. Install dependencies:
